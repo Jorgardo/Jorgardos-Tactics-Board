@@ -6,4 +6,4 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 
 Here is an example rendered in the Programm: 
 
-<img src="Screenshots/mourinho_zanetti_rendered.png" width="1080">
+<img src="Screenshots/mourinho_zanetti_rendered.png" width="1009">
