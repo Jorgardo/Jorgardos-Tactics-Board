@@ -7,6 +7,6 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 Here is an example rendered in the Programm: 
 
 <p align="center">
-  <img src="Screenshots/mourinho_zanetti_rendered.png" width="80%">
+  <img src="Screenshots/mourinho_zanetti_rendered.png" width="90%">
 </p>
 
