@@ -6,5 +6,5 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 
 Here is an example rendered in the Programm: 
 
-![Rendered Tactics Board](screenshots/Mourinho Zanetti (rendered by Tactics Board).png) 
+![Rendered Tactics Board](screenshots/Mourinho_Zanetti_rendered_by_Tactics Board.png) 
 
