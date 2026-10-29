@@ -7,3 +7,13 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 *Here is an example rendered in the Programm:*
 
 <img src="Screenshots/mourinho_zanetti_rendered.png">
+
+*Here is a screenshot from José explaining his tactics:* 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4wAG5ZUJ4eI&t=89s" target="_blank">
+    <img src="Screenshots/mourinho_original.png">
+  </a>
+  <br>
+  <em>(Click the image to watch the original video on Coaches' Voice)</em>
+</p>
