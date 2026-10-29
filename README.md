@@ -2,6 +2,7 @@
 
 
 
+
 # Jorgardos-Tactics-Board
 An open-source 2D/3D football tactics board with an animation studio, advanced tactical zones, and many more features.
 
@@ -62,8 +63,19 @@ Display zones on the pitch to analyze the positioning of players.
 <br>
 <br>
 
+### Animation
+Create animations of your favourite plays.
+
+<div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
+  <img width="800" height="450" alt="Build up animation" src="https://github.com/user-attachments/assets/bbdee453-3efb-44e0-84d9-48f6ab05ee72" />
+</div>
+
+<br>
+<br>
+
+
 ### Other Key Features 
-- **Animation Studio:** Create animations of your favourite plays.
+- **Smart Magnet:** 
 - **Prebuilt Formations:** You can choose out of 30 different prebuilt formations for your team instead of having to move each player into the right position. 
 - **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch. 
 - **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
