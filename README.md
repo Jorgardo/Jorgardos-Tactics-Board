@@ -29,3 +29,4 @@ The look and feel of this board are inspired by the legendary tactical analysis 
   <em><a href="https://www.youtube.com/watch?v=4wAG5ZUJ4eI&t=89s" target="_blank" style="color: inherit; text-decoration: none;">(Original Video)</a></em>
 </p>
 
+##Installation 
