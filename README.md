@@ -39,7 +39,7 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 
 ## Features
 
-Due to the large number of implemented tools, this section only highlights the most important and core features of the board
+Due to the large number of implemented tools, this section only highlights the most important and core features of the board:
 
 ### Seamless 2D / 3D Switch
 You can toggle between a classic 2D tactical view and an immersive 3D perspective with a single click
@@ -66,5 +66,5 @@ Display zones on the pitch to analyze positioning of players
 * **Prebuild Formations:** You can choose out of 30 different prebuild formations for your team instead of having to move each player into the right position.  
 * **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch. 
 * **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
-*  **Performance mode Disables the transparency and animations of the menu 
+* **Performance mode:** Disables the transparency and animations of the menu 
 
