@@ -1,5 +1,6 @@
 
 
+
 # Jorgardos-Tactics-Board
 An open-source 2D/3D football tactics board with an animation studio, advanced tactical zones and many more features.
 
@@ -45,7 +46,7 @@ Due to the large number of implemented tools, this section only highlights the m
 You can toggle between a classic 2D tactical view and an immersive 3D perspective with a single click
 
 <div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
-  <img src="screenshots/2d_3d_switch.gif" alt="2D/3D Switch Animation" width="100%" style="display: block;">
+  <img width="800" height="450" alt="2dto3d" src="https://github.com/user-attachments/assets/ded15d10-3570-498a-80bd-610ae3ded581" />
 </div>
 
 <br>
