@@ -1,3 +1,4 @@
+
 # Jorgardos-Tactics-Board
 An open-source 2D/3D football tactics board with an animation studio, advanced tactical zones and many more features.
 
@@ -9,7 +10,8 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 <br>
 
 <div align="center" style="border-radius: 12px; overflow: hidden; display: inline-block; max-width: 80%;">
-  <img src="Screenshots/mourinho_zanetti_rendered.png" width="100%" style="display: block;">
+  <img width="1920" height="1009" alt="mourinho_zanetti_rendered png" src="https://github.com/user-attachments/assets/93ed9021-cb63-4069-84f5-a93f07612a13" />
+
 </div> 
 
 Here is a screenshot from José explaining his tactics:
@@ -18,7 +20,7 @@ Here is a screenshot from José explaining his tactics:
 
 <div align="center" style="border-radius: 12px; overflow: hidden; display: inline-block; max-width: 80%;">
   <a href="DEIN_YOUTUBE_LINK" target="_blank">
-    <img src="Screenshots/mourinho_original.png" width="100%" style="display: block;">
+     <img width="1920" height="1080" alt="mourinho_original" src="https://github.com/user-attachments/assets/a81edf9c-e22f-4028-8799-bd16507a9441" />
   </a>
 </div>
 <p align="center">
