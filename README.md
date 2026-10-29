@@ -18,7 +18,7 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 <br>
 <br>
 
-*Here is a screenshot from José explaining his tactics:*
+*Here is a screenshot of José explaining his tactics:*
 
 <div align="center" style="border-radius: 60px; overflow: hidden; display: inline-block; max-width: 80%;">
   <a href="DEIN_YOUTUBE_LINK" target="_blank">
