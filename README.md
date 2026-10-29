@@ -18,7 +18,6 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 
 <br>
 <br>
-<br>
 
 *Here is a screenshot of José explaining his tactics:*
 
