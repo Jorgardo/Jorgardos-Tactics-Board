@@ -37,4 +37,33 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 3. Double-click the file to start the application
 
 
-## Features  
+## Features
+
+Due to the large number of implemented tools, this section only highlights the most important and core features of the board
+
+### Seamless 2D / 3D Switch
+You can toggle between a classic 2D tactical view and an immersive 3D perspective with a single click
+
+<div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
+  <img src="screenshots/2d_3d_switch.gif" alt="2D/3D Switch Animation" width="100%" style="display: block;">
+</div>
+
+<br>
+<br>
+
+### Tactical Zones
+Customize and display zones on the pitch to analyze positioning, space control, and passing 
+
+<div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
+  <img src="screenshots/tactical_zones.png" alt="Tactical Zones" width="100%" style="display: block;">
+</div>
+
+<br>
+<br>
+
+### Other Key Features 
+* **Animation Studio:** Create fluid tactical sequences and player movements step by step.
+* **Custom Formations:** Easily arrange and save custom team formations and player roles.
+* **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch.
+* **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
+
