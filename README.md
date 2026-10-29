@@ -3,18 +3,17 @@
 
 
 # Jorgardos-Tactics-Board
-An open-source 2D/3D football tactics board with an animation studio, advanced tactical zones and many more features.
+An open-source 2D/3D football tactics board with an animation studio, advanced tactical zones, and many more features.
 
 ## What is this project? 
-The look and feel of this board are inspired by the legendary tactical analysis videos from Coaches' Voice where top managers like José Mourinho explain their tactics. 
+The look and feel of this board are inspired by the legendary tactical analysis videos from Coaches' Voice, where top managers like José Mourinho explain their tactics. 
 
-*Here is an example rendered in the Programm:*
+*Here is an example rendered in the program:*
 
 <br>
 
 <div align="center" style="border-radius: 60px; overflow: hidden; display: inline-block; max-width: 80%;">
   <img width="1920" height="1080" alt="tactic (1)" src="https://github.com/user-attachments/assets/64d5ca02-3c94-48d4-9460-b91fcb93f03b" />
-
 </div> 
 
 <br>
@@ -35,17 +34,16 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 
 ## Installation 
 
-1. Go to the **Releases** section on the right side of this repository
-2. Download the latest `Tactics Board.exe`
-3. Double-click the file to start the application
-
+1. Go to the **Releases** section on the right side of this repository.
+2. Download the latest `Tactics Board.exe`.
+3. Double-click the file to start the application.
 
 ## Features
 
 Due to the large number of implemented tools, this section only highlights the most important and core features of the board:
 
 ### Seamless 2D / 3D Switch
-You can toggle between a classic 2D tactical view and an immersive 3D perspective with a single click
+You can toggle between a classic 2D tactical view and an immersive 3D perspective with a single click.
 
 <div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
   <img width="800" height="450" alt="2dto3d" src="https://github.com/user-attachments/assets/ded15d10-3570-498a-80bd-610ae3ded581" />
@@ -55,7 +53,7 @@ You can toggle between a classic 2D tactical view and an immersive 3D perspectiv
 <br>
 
 ### Tactical Zones
-Display zones on the pitch to analyze positioning of players
+Display zones on the pitch to analyze the positioning of players.
 
 <div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
   <img width="1919" height="1079" alt="Screenshot 2026-10-29 023331" src="https://github.com/user-attachments/assets/e8795f84-2e8f-42d3-a7cf-a3999677fd0b" /> 
@@ -65,13 +63,13 @@ Display zones on the pitch to analyze positioning of players
 <br>
 
 ### Other Key Features 
-* **Animation Studio:** Create animations of your favourite plays.
-* **Prebuild Formations:** You can choose out of 30 different prebuild formations for your team instead of having to move each player into the right position.  
-* **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch. 
-* **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
-* **Performance mode:** Disables the transparency and animations of the menu.
+- **Animation Studio:** Create animations of your favourite plays.
+- **Prebuilt Formations:** You can choose out of 30 different prebuilt formations for your team instead of having to move each player into the right position. 
+- **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch. 
+- **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
+- **Performance Mode:** Disables the transparency and animations of the menu.
 
 ## For Developers
 
-If you are a programmer and want to check out the code, contribute, or run the project locally, feel free to explore the repository. Pull requests, bug reports, and feature suggestions are always welcome. Especially since I am not experienced with Python and much of the program was essentially vibecoded. Any help is greatly appreciated :) 
+If you are a programmer and want to check out the code, contribute, or run the project locally, feel free to explore the repository. Pull requests, bug reports, and feature suggestions are always welcome. Especially since I am not experienced with Python and much of the program was essentially vibecoded, any help is greatly appreciated :) 
 
