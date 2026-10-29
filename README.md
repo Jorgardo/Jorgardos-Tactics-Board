@@ -69,5 +69,9 @@ Display zones on the pitch to analyze positioning of players
 * **Prebuild Formations:** You can choose out of 30 different prebuild formations for your team instead of having to move each player into the right position.  
 * **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch. 
 * **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
-* **Performance mode:** Disables the transparency and animations of the menu 
+* **Performance mode:** Disables the transparency and animations of the menu.
+
+## For Developers
+
+If you are a programmer and want to check out the code, contribute, or run the project locally, feel free to explore the repository. Pull requests, bug reports, and feature suggestions are always welcome. Especially since I am not experienced with Python and much of the program was essentially vibecoded. Any help is greatly appreciated :) 
 
