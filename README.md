@@ -75,7 +75,7 @@ Create animations of your favourite plays.
 
 
 ### Other Key Features 
-- **Smart Magnet:** 
+- **Smart Magnet:** Easily snap players to the exact same height or position them symmetrically next to each other. 
 - **Prebuilt Formations:** You can choose out of 30 different prebuilt formations for your team instead of having to move each player into the right position. 
 - **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch. 
 - **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
