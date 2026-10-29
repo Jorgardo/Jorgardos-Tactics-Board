@@ -52,7 +52,7 @@ You can toggle between a classic 2D tactical view and an immersive 3D perspectiv
 <br>
 
 ### Tactical Zones
-Customize and display zones on the pitch to analyze positioning, space control, and passing 
+Display zones on the pitch to analyze positioning of players
 
 <div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
   <img src="screenshots/tactical_zones.png" alt="Tactical Zones" width="100%" style="display: block;">
@@ -62,8 +62,9 @@ Customize and display zones on the pitch to analyze positioning, space control, 
 <br>
 
 ### Other Key Features 
-* **Animation Studio:** Create fluid tactical sequences and player movements step by step.
-* **Custom Formations:** Easily arrange and save custom team formations and player roles.
-* **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch.
+* **Animation Studio:** Create animations of your favourite plays.
+* **Prebuild Formations:** You can choose out of 30 different prebuild formations for your team instead of having to move each player into the right position.  
+* **Drawing Tools:** Draw custom arrows, lines, and runs directly onto the pitch. 
 * **Export Options:** You are able to save and share your tactical boards and animations effortlessly. Due to the extremely small file sizes, you can easily share your setups via Discord or other platforms. Looking ahead, I am also thinking about adding a community library where users can upload and share their own custom tactics and animations for everyone.
+*  **Performance mode Disables the transparency and animations of the menu 
 
