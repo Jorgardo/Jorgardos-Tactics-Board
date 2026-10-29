@@ -1,6 +1,7 @@
 
 
 
+
 # Jorgardos-Tactics-Board
 An open-source 2D/3D football tactics board with an animation studio, advanced tactical zones and many more features.
 
@@ -57,7 +58,7 @@ You can toggle between a classic 2D tactical view and an immersive 3D perspectiv
 Display zones on the pitch to analyze positioning of players
 
 <div align="center" style="border-radius: 40px; overflow: hidden; display: inline-block; max-width: 80%;">
-  <img src="screenshots/tactical_zones.png" alt="Tactical Zones" width="100%" style="display: block;">
+  <img width="1919" height="1079" alt="Screenshot 2026-10-29 023331" src="https://github.com/user-attachments/assets/e8795f84-2e8f-42d3-a7cf-a3999677fd0b" /> 
 </div>
 
 <br>
