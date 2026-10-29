@@ -31,9 +31,9 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 
 ## Installation 
 
-1. Go to the **Releases** section on the right side of this repository.
-2. Download the latest `Tactics Board.exe`.
-3. Double-click the file to start the application.
+1. Go to the **Releases** section on the right side of this repository
+2. Download the latest `Tactics Board.exe`
+3. Double-click the file to start the application
 
 
 ## Features  
