@@ -6,9 +6,9 @@ The look and feel of this board are inspired by the legendary tactical analysis 
 
 *Here is an example rendered in the Programm:*
 
-<p align="center">
-  <img src="Screenshots/mourinho_zanetti_rendered.png" style="border-radius: 90px;">
-</p>
+<div align="center" style="border-radius: 12px; overflow: hidden; display: inline-block;">
+  <img src="Screenshots/mourinho_zanetti_rendered.png" width="100%" style="display: block;">
+</div>
 
 
 
